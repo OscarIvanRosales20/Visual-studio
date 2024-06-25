@@ -1,0 +1,236 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "inverso",
+            "request": "launch",
+            "mainClass": "BluclesAnidados.inverso",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "BluclesAnidados.one",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "Inverso",
+            "request": "launch",
+            "mainClass": "BluclesAnidados.Inverso",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "BA1_Inverso",
+            "request": "launch",
+            "mainClass": "BluclesAnidados.BA1_Inverso",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "BA1_Inverso",
+            "request": "launch",
+            "mainClass": "BA1_Inverso",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "one",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "BA1_Suma",
+            "request": "launch",
+            "mainClass": "BA1_Suma",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "numMostrar",
+            "request": "launch",
+            "mainClass": "CondicionesyBucles.numMostrar",
+            "projectName": "Java_bb982f56"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourCuadrado",
+            "request": "launch",
+            "mainClass": "fourCuadrado",
+            "projectName": "Java_a2664454"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inicio",
+            "request": "launch",
+            "mainClass": "PilaPrueba.Inicio",
+            "projectName": "Java_a2664454"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postfix",
+            "request": "launch",
+            "mainClass": "PilasLibro.Postfix",
+            "projectName": "Java_a2664454"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackApp",
+            "request": "launch",
+            "mainClass": "Pilas.StackApp",
+            "projectName": "Java_a2664454"
+        },
+        {
+            "type": "java",
+            "name": "Launch shortestPath",
+            "request": "launch",
+            "mainClass": "shortestPath",
+            "projectName": "Java_a2664454"
+        },
+        {
+            "type": "java",
+            "name": "Launch numDe7En7",
+            "request": "launch",
+            "mainClass": "CondicionesyBucles.numDe7En7",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch numElevarCuadrado",
+            "request": "launch",
+            "mainClass": "CondicionesyBucles.numElevarCuadrado",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch numEscrito",
+            "request": "launch",
+            "mainClass": "numEscrito",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch calendario30Dias",
+            "request": "launch",
+            "mainClass": "calendario30Dias",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch calificaciones",
+            "request": "launch",
+            "mainClass": "calificaciones",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch cifrasReves",
+            "request": "launch",
+            "mainClass": "cifrasReves",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch numMostrarOrdenarlos",
+            "request": "launch",
+            "mainClass": "numMostrarOrdenarlos",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch numComparar",
+            "request": "launch",
+            "mainClass": "numComparar",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch longitudCirculo",
+            "request": "launch",
+            "mainClass": "longitudCirculo",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaCirculo",
+            "request": "launch",
+            "mainClass": "AreaCirculo",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch ecuancion2grado",
+            "request": "launch",
+            "mainClass": "ecuancion2grado",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseApp",
+            "request": "launch",
+            "mainClass": "reverseWord.ReverseApp",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "Java_d4ca1a58"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseApp",
+            "request": "launch",
+            "mainClass": "reverseWord.ReverseApp",
+            "projectName": "Java_850705aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackApp",
+            "request": "launch",
+            "mainClass": "Pilas.StackApp",
+            "projectName": "Java_850705aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderedApp",
+            "request": "launch",
+            "mainClass": "Ordenar.OrderedApp",
+            "projectName": "Java_850705aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "Arboles.Tree",
+            "projectName": "Java_850705aa"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+    ]
+}
